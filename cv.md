@@ -8,6 +8,19 @@
 ### About me:
 I have experience working in a team, can plan my time correctly, learn quickly.
 ### Skills:
-Ruby, Ruby on Rails, RSpec, Redis, Sidekiq, PostgreSQL, MySQL, Capybara, Linux, Git, Docker, TDD
+Ruby on Rails
+### Code example:
+```
+// multiply two numbers
+def multiply (a, b)
+  a * b
+end
+
+multiply(2,4)
+```
 ### Experience:
-2 years of experience in commercial projects.
+Some experience in commercial projects.
+### Education:
+National Mining University
+### English
+A2
