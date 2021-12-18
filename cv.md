@@ -1,8 +1,6 @@
 # [rsschool-cv](https://avoloshyn10.github.io/rsschool-cv/cv)
 # Andrii Voloshyn
-![my WOT avatar](photo-12495696-543ea11c.jpg "my WOT avatar")
-
-my World of Tanks avatar
+![my WOT avatar](photo-12495696-543ea11c.jpg "my World of Tanks avatar")
 
 ## Ruby on Rails developer
 
