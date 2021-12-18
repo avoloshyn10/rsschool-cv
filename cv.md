@@ -5,10 +5,12 @@
 * Discord: Andrii Voloshyn (@avoloshyn10)
 * Github: https://github.com/avoloshyn10
 * Location: Dnipro, Ukraine
+
 ### About me:
 I have experience working in a team, can plan my time correctly, learn quickly.
 ### Skills:
 Ruby on Rails
+
 ### Code example:
 ```
 // multiply two numbers
@@ -18,6 +20,7 @@ end
 
 multiply(2,4)
 ```
+
 ### Experience:
 Some experience in commercial projects.
 ### Education:
