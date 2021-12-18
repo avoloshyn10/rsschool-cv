@@ -19,7 +19,7 @@ I have experience working in a team, can plan my time correctly, learn quickly.
 
 ### Code example:
 ```
-// multiply two numbers
+// multiply two numbers (Ruby)
 def multiply(a, b)
   a * b
 end
