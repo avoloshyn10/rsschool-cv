@@ -1,3 +1,8 @@
-p{
-  color: black;
+ul {
+  list-style-type: none;
+}
+
+nav > ul > li {
+  float:left;
+  padding: 8px;
 }
